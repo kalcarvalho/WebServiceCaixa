@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/kalcarvalho/Documents/NetBeansProjects/WebserviceCaixa/arquivos/Manutencao_Cobranca_Bancaria_Externo-1.2.wsdl" uri="xml-resources/web-service-references/Manutencao_Cobranca_Bancaria_Externo-1.2/wsdl/Manutencao_Cobranca_Bancaria_Externo-1.2.wsdl"/>
+    <system systemId="file:/C:/Users/kalcarvalho/Documents/NetBeansProjects/WebserviceCaixa/arquivos/Consulta_Cobranca_Bancaria_Boleto-1.2.wsdl" uri="xml-resources/web-service-references/Consulta_Cobranca_Bancaria_Boleto-1.2/wsdl/Consulta_Cobranca_Bancaria_Boleto-1.2.wsdl"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo?wsdl" uri="wsdl/des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo.wsdl"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo?xsd=xsd0" uri="wsdl/des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo.xsd_xsd0.xsd"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo?xsd=xsd1" uri="wsdl/des.barramento.caixa.gov.br/sibar/ManutencaoCobrancaBancaria/Boleto/Externo.xsd_xsd1.xsd"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto?wsdl" uri="wsdl/des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto.wsdl"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto?xsd=xsd0" uri="wsdl/des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto.xsd_xsd0.xsd"/>
+    <system systemId="https://des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto?xsd=xsd1" uri="wsdl/des.barramento.caixa.gov.br/sibar/ConsultaCobrancaBancaria/Boleto.xsd_xsd1.xsd"/>
+</catalog>

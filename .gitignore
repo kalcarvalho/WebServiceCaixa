@@ -1,3 +1,33 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,netbeans
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,netbeans
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 # Compiled class file
 *.class
 
@@ -21,3 +51,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,netbeans
